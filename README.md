@@ -25,7 +25,7 @@
 <tr>
 <td align="center" style="border: none;">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YangZeta-Dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="YangZeta-Dev's Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YangZeta-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="YangZeta-Dev's Stats" />
 
 </td>
 <td align="center" style="border: none;">
