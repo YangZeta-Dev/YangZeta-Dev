@@ -22,12 +22,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Lang" height="170" />
-  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" height="170" />
+  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Lang" height="170" />
+  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="170" />
 </p>
 
 <br/>
