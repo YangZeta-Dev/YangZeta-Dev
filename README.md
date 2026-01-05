@@ -16,7 +16,7 @@
  🔭 I’m currently working on <strong>C/C++ System Programming</strong><br>
  🌱 I’m currently learning <strong>Advanced Data Structures & Algorithms</strong><br>
  💬 Ask me about <strong>Linux, Network Programming, and Backend Architecture</strong><br>
- 📫 How to reach me: <strong>YourEmail@example.com</strong>
+ 📫 How to reach me: <strong>2897149808@qq.com</strong>
 </p>
 
 <br/>
