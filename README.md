@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,git,vim,vscode,docker,bash,qt,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,git,vim,vscode,docker,bash,qt,python&perline=11" />
 </p>
 
 <br/>
