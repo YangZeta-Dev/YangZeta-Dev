@@ -21,24 +21,14 @@
 
 <br/>
 
-<table align="center" style="border: none;">
-<tr>
-<td align="center" style="border: none;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
 
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YangZeta-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="YangZeta-Dev's Stats" />
-
-</td>
-<td align="center" style="border: none;">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangZeta-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YangZeta-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Lang" height="170" />
+  <img src="https://raw.githubusercontent.com/YangZeta-Dev/YangZeta-Dev/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" height="170" />
+</p>
 
 <br/>
 
